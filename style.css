@@ -3,6 +3,7 @@
     box-sizing: border-box;
     padding: 0;
 }
+@media (max-width: 768px) {}
 
 button {
     background-color: #c51111;
@@ -152,4 +153,5 @@ textarea {
 }   
 /*{top:30%;
 left: 50%;
+
 transform:translatex(-50%) ;*/
