@@ -3,7 +3,7 @@
     box-sizing: border-box;
     padding: 0;
 }
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
 
 button {
     background-color: #c51111;
@@ -151,7 +151,9 @@ textarea {
     z-index: 998;
     transition: visibility .5s ease-in-out;
 }   
+}
 /*{top:30%;
 left: 50%;
 
 transform:translatex(-50%) ;*/
+
